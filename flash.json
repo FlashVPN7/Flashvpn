@@ -20,17 +20,17 @@
       },
 {
          "name": "SINGAPORE(5)_FREE",
-         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-7.ovpn"
+         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-14.ovpn"
       },
 
 {
          "name": "SINGAPORE(6)_VIP",
-         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-8.ovpn"
+         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-3.ovpn"
       },
 
 {
          "name": "FF + Htawbi (7)_VIP",
-         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-8.ovpn"
+         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-7.ovpn"
       },
 
 {
@@ -41,7 +41,7 @@
 
 {
          "name": "FF + Htawbi (9)_VIP",
-         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-8.ovpn"
+         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-9.ovpn"
       }
 
 
@@ -49,7 +49,7 @@
 
 
    ],
-"message":"update: 31/10/2021\n \nConfig version: 4.0\n Update by: YeWannaTun\n \n",
+"message":"update: 31/10/2021\n \nConfig version: 5.0\n Update News: - FF PLAN VIP Server Added  \n \n",
    "title":"New config update available" ,
-   "version": 3
+   "version": 4
 }
