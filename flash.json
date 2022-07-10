@@ -1,40 +1,67 @@
 {
-   "files": [   
-
-
-{
-         "name": "Mytel_1_FREE",
-         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-3.ovpn"
-      },
-{
-         "name": "Ooredoo_2_FREE",
-         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-4.ovpn"
-      },
-{
-         "name": "Mpt_3_FREE",
-         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-5.ovpn"
-      },
-{
-         "name": "Telenor_4_FREE",
-         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-6.ovpn"
-      },
-{
-         "name": "MEC_FREE",
-         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-14.ovpn"
-      },
-
-{
-         "name": "Fiber_6_PV",
-         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/client-tcp.ovpn"
-      
-      }
-
-
-
-
-
-   ],
-"message":"update: 2/11/2021\n \nConfig version: 7.0\n Update News: - Added MYTEL BILL0 \n \n",
-   "title":"New config update available" ,
-   "version": 8
+  "files": [
+    {
+      "name": "Ooredoo_🇨🇷Supernet_PV",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Ooredoo_%F0%9F%87%A8%F0%9F%87%B7Supernet_PV.ovpn"
+    },
+    {
+      "name": "Ooredoo_🇸🇬Supernet_FREE",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Ooredoo_%F0%9F%87%B8%F0%9F%87%ACSupernet_FREE.ovpn"
+    },
+    {
+      "name": "Ooredoo_🇱🇷Supernet_FREE",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Ooredoo_%F0%9F%87%B1%F0%9F%87%B7Supernet_Free.ovpn"
+    },
+    {
+      "name": "Ooredoo_🇲🇲Supernet-2_PV",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Ooredoo_%F0%9F%87%B2%F0%9F%87%B2Supernet-2_PV.ovpn"
+    },
+    {
+      "name": "Ooredoo_🇲🇲Supernet_PV",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Ooredoo_%F0%9F%87%B2%F0%9F%87%B2Supernet_PV.ovpn"
+    },
+    {
+      "name": "Mytel_🇨🇷GCP_PV",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Mytel_%F0%9F%87%A8%F0%9F%87%B7GCP_PV.ovpn"
+    },
+    {
+      "name": "Mytel_🇲🇲GCP_PV",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Mytel_%F0%9F%87%B2%F0%9F%87%B2GCP_PV.ovpn"
+    },
+    {
+      "name": "Mytel_🇸🇬GCP-1_FREE",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Mytel_%F0%9F%87%B8%F0%9F%87%ACGCP-1_FREE.ovpn"
+    },
+    {
+      "name": "Mytel_🇱🇷GCP_FREE",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Mytel_%F0%9F%87%B1%F0%9F%87%B7GCP_FREE.ovpn"
+    },
+    {
+      "name": "🇲🇲Gaming_FREE",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/%F0%9F%87%B2%F0%9F%87%B2Gaming_FREE.ovpn"
+    },
+    {
+      "name": "🇨🇷Gaming_FREE",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/%F0%9F%87%A8%F0%9F%87%B7Gaming_FREE.ovpn"
+    },
+    {
+      "name": "🇸🇬ALL-SIM_FREE",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/%F0%9F%87%B8%F0%9F%87%ACALL-SIM_FREE.ovpn"
+    },
+    {
+      "name": "Fiber_🇸🇬_FREE",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Fiber_%F0%9F%87%B8%F0%9F%87%AC_FREE.ovpn"
+    },
+    {
+      "name": "🇱🇷USA_1_FREE",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/%F0%9F%87%B1%F0%9F%87%B7USA_FREE.ovpn"
+    },
+    {
+      "name": "🇱🇷USA_2_FREE",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/%F0%9F%87%B1%F0%9F%87%B7USA_2_FREE.ovpn"
+    }
+  ],
+  "message": "Welcom From Dark~VPN\n \nConfig version: 2.0\n\n☠ Added GCP\n☠ Added Supernet\n☠ 1M2K Soon..\n\n \n",
+  "title": "New config update available",
+  "version": 2
 }
