@@ -1,6 +1,6 @@
 {
   "files": [
-   {
+    {
       "name": "Mytel_🇸🇬GCP-Speed-LIMITED_FREE",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/GCP-1_FREE.ovpn"
     },
@@ -8,7 +8,7 @@
       "name": "Ooredoo_🇸🇬Supernet_FREE",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Ooredoo_%F0%9F%87%B8%F0%9F%87%ACSupernet_FREE.ovpn"
     },
-{
+    {
       "name": "Ooredoo_🇸🇬Supernet-Do-Server_PV",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Spn_Do.ovpn"
     },
@@ -24,7 +24,6 @@
       "name": "Ooredoo_🇲🇲Supernet_PV",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Ooredoo_%F0%9F%87%B2%F0%9F%87%B2Supernet_PV.ovpn"
     },
-    
     {
       "name": "Mytel_🇲🇲GCP_PV",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Mytel_%F0%9F%87%B2%F0%9F%87%B2GCP_PV.ovpn"
@@ -33,15 +32,14 @@
       "name": "Mytel_🇸🇬GCP-Speed-Unlimited_PV",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/%F0%9F%87%B8%F0%9F%87%ACGCP-1_FREE.ovpn"
     },
-{
+    {
       "name": "Mytel_🇸🇬GCP-Speed-Max-8Mbp_PV",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/GCP_Max6.ovpn"
     },
-{
+    {
       "name": "Mytel_🇸🇬GCP-Speed-Max-16Mbps_PV",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/GCP_Max12.ovpn"
     },
-
     {
       "name": "Mytel_🇱🇷GCP_FREE",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Mytel_%F0%9F%87%B1%F0%9F%87%B7GCP_FREE.ovpn"
@@ -62,10 +60,9 @@
       "name": "Fiber_🇸🇬_FREE",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/Fiber_%F0%9F%87%B8%F0%9F%87%AC_FREE.ovpn"
     },
-    
+    null
   ],
-  "message": "Welcom From Dark~VPN\n \nConfig version: 3.0\n\n☠ GCP Server Update\n☠ Added DO SERVER Supernet\n\n\n \n",
+  "message": "Welcom From Dark~VPN\n \nConfig version: 3.0\n\n☠ GCP Server Update Price\nSpeed 8/Mbps MAX \u003d 2000 Ks\nSpeed 16/Mbps MAX \u003d 3000 Ks\nSpeed Unlimited  \u003d 5000 Ks\n\n☠ Added DO SERVER Supernet\n\n\n\n \n",
   "title": "New  update available",
   "version": 4.0
 }
-
