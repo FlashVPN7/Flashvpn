@@ -1,5 +1,14 @@
 {
   "files": [
+
+    {
+      "name": "Mytel_🇱🇷GCP-VPS_VIP",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/A.ovpn"
+    },
+    {
+      "name": "Mytel_🇸🇬GCP-VPS_VIP",
+      "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/B.ovpn"
+    },
     {
       "name": "Mytel_🇸🇬GCP-1_VIP",
       "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/a.ovpn"
